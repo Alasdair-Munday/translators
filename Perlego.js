@@ -2,14 +2,14 @@
 	"translatorID": "4fbb8dfd-459d-445e-bd2a-5ea89814b0c0",
 	"label": "Perlego",
 	"creator": "Brendan O'Connell",
-	"target": "^https?://(www\\.)?perlego\\.com",
+	"target": "^https?://((www\\.)|(ereader\\.))?perlego\\.com",
 	"minVersion": "5.0",
 	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
 	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2023-04-26 14:52:00"
+	"lastUpdated": "2023-06-24 20:51:43"
 }
 
 /*
